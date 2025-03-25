@@ -3,7 +3,7 @@
 Este projeto é um microserviço de chat ao vivo desenvolvido com **Spring Boot** e **WebSockets**. Ele permite que usuários enviem mensagens em tempo real utilizando **STOMP** sobre WebSockets.
 
 ## Tecnologias Utilizadas
-- Java 21+
+- Java 21
 - Spring Boot
 - Spring WebSocket
 - STOMP
@@ -84,7 +84,4 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
 
 ## Contribuição
 Pull requests são bem-vindos! Para mudanças maiores, abra uma issue primeiro para discutir o que deseja modificar.
-
-## Licença
-Este projeto está sob a licença MIT.
 
